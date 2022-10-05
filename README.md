@@ -8,7 +8,8 @@ Ubuntu R8125网卡驱动离线安装
 
 可以使用以上离线安装包进行安装，文件夹结构如下图所示：
 
-<img title="" src="file:///C:/Users/ADMIN/AppData/Roaming/marktext/images/2022-10-05-18-58-32-image.png" alt="" width="397">
+![image](https://user-images.githubusercontent.com/54757061/194045963-378b2263-e329-4576-9593-1b27f392ee38.png)
+
 
 依次进入gcc、make、build-essential目录，执行命令
 
