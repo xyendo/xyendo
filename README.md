@@ -1,5 +1,8 @@
 Ubuntu R8125网卡驱动离线安装
+
 https://matrixyun.lanzouj.com/izuG60d8tyfa
+
+https://www.aliyundrive.com/s/rMce1GhKsE7
 
 问题描述：
 
